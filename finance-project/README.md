@@ -2,14 +2,15 @@
 
 ## Here is the list of all projects
 
-- [Finance](https://github.com/v-rao/demo/tree/master/finance-project "Finance")
-- Accounts
-- Banking
-- Energy
+-Finance
+-Accounts
+-Banking
+-Energy
 
-| Finance project | [![Fin](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Fin")  |
+|Finance project   | [![Finance](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Finance")](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Finance")  |
 | :------------: | :------------: |
-| [![Accounts](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  | Accounts  project |
-| Banking  project | [![Banking](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Banking")  |
-| [![Energy](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")](https://raw.githubusercontent.com/v-rao/demo/master/images/fin.jpg "Energy")  | Energy  project |
+|[![Accounts](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Accounts")](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Accounts")   |Accounts project  |
+|Banking project   |[![Banking](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Banking")](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Banking")  |
+| [![Energy](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Energy")](https://raw.githubusercontent.com/Kiranmaibokka/Demo/master/Images/images.jpeg "Energy")  |Energy project  |
+
 
